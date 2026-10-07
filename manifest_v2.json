@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "979871379424",
+    "restype": "watchface",
+    "name": "连词成句",
+    "description": "小时候的卷子上，总有一类题：左边一列，右边一列，拿铅笔把该配对的连起来。低年级时它有很多随意的名字——找朋友、连连看、连一下；到了高年级，题目换了更严肃准确的名字，叫「连词成句」。\n\n这款表盘的灵感，就来自那类题。\n\n表盘上只有三列：星期、小时、分钟，没有年月，也没有秒。\n\n原因很简单——学生时代的日子是按星期过的。星期五到了，后面就是周末；星期一又是一周最难熬的开始。而课堂上下课的间隙，我们常侧过身，问同桌现在几点了。\n\n三列各自打乱，像考卷上被排乱的两列。每一列里只有「现在」的那一项是亮的：今天星期几、现在几点、现在几分。两条手画的抖线把它们连起来——从星期连到小时，再从小时连到分钟。三个元素，一条路径，正好就是此刻。线带着一点抖动，像铅笔落在纸上的样子。\n\n黑底单色，不抢眼，只为让此刻该看见的那三项浮出来。\n\n每分钟，整盘重新排一次。同一个排布不会再出现第二次，就像每一天都不会重来。\n\n抬腕看一眼，先看到星期，顺着线往下走，看到时间。这个过程很短，短到只是一次眨眼。但如果愿意慢半拍，它和当年在卷子上连一道题，是同一种小小的、心安的满足。\n\n息屏时它很安静：只剩一行，星期和时间，居中、高亮。像熄灯后的教室，黑板上还留着一行没擦干净的字。\n\n希望你会喜欢。",
+    "preview": [
+      "media/poster-1-2000x3000_结果_结果.png",
+      "media/poster-2-2000x3000_结果_结果.png",
+      "media/poster-3-2000x3000_结果_结果.png"
+    ],
+    "icon": "media/12_active-256.png",
+    "cover": "media/cover-type-3000x2000_结果_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "airplane-tilt"
+    }
+  ],
+  "downloads": {
+    "xmrw5xring": {
+      "version": "0.0.0",
+      "file_name": "downloads/LianXian12.bin",
+      "versionCode": 0
+    },
+    "xmrw5": {
+      "version": "0.0.0",
+      "file_name": "downloads/LianXian12.bin",
+      "versionCode": 0
+    },
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/LianXian12.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
